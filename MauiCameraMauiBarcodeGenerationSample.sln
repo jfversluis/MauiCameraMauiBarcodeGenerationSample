@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33513.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiCameraMauiBarcodeGenerationSample", "MauiCameraMauiBarcodeGenerationSample\MauiCameraMauiBarcodeGenerationSample.csproj", "{CCEB0CD8-18E0-4FEB-89A0-63F2ACA19189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCEB0CD8-18E0-4FEB-89A0-63F2ACA19189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCEB0CD8-18E0-4FEB-89A0-63F2ACA19189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCEB0CD8-18E0-4FEB-89A0-63F2ACA19189}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CCEB0CD8-18E0-4FEB-89A0-63F2ACA19189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCEB0CD8-18E0-4FEB-89A0-63F2ACA19189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCEB0CD8-18E0-4FEB-89A0-63F2ACA19189}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EBE836C-D176-4FB3-ABF9-EAF50581C800}
+	EndGlobalSection
+EndGlobal
